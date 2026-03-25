@@ -1,0 +1,16 @@
+import React from 'react';
+import './AboutUs.css';
+
+function AboutUs() {
+  return (
+    <div className="about-us-container">
+      <h1 className="about-us-title">About Paradise Nursery</h1>
+      <p className="about-us-description">Welcome to Paradise Nursery, where green dreams come true...</p>
+      <p className="about-us-content">
+        Our mission is to provide high-quality, sustainably grown plants to enhance your living space.
+      </p>
+    </div>
+  );
+}
+
+export default AboutUs;
