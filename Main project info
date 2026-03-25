@@ -1,0 +1,7 @@
+# Paradise Nursery
+A React-based e-commerce application for purchasing houseplants, featuring a shopping cart managed by Redux Toolkit.
+
+## Features
+- Landing page with "Get Started" navigation.
+- Product listing with categories (Air Purifying, Aromatic, etc.).
+- Real-time shopping cart with Add, Remove, and Update functionality.
